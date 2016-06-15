@@ -6,3 +6,8 @@ Release
 Release_Build
 Debug_Build
 __history
+/vc10/Debug
+/vc10/ipch
+/vc10/*.opensdf
+/vc10/*.sdf
+/vc10/*.suo
